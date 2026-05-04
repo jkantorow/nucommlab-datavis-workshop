@@ -1,6 +1,8 @@
 # Northeastern Univeristy CommLab Workshop Series: Automating Your Data Visualization Process with Python
 
-![Workshop Logo](workshop_logo.png)
+<p align="center">
+    <img src="workshop_logo.png" />
+</p>
 
 A three-day workshop designed to teach researchers the basics of Python plotting and data visualization from the ground up. This series is primarily designed for those with little to no experience in Python. Over the course of three sessions, we'll demonstrate how to setup and interact with a user-friendly Python plotting environment before walking through the basics of importing and plotting your data:
 
@@ -20,4 +22,5 @@ A three-day workshop designed to teach researchers the basics of Python plotting
 ### Provided by the Northeastern University COE CommLab:
 - [CommLab Website](https://coe.northeastern.edu/orgs/nu-coe-commlab/)
 - [Book a One-on-one](https://outlook.office365.com/book/CivilandEnvironmentalCommLab@northeastern.onmicrosoft.com/?ismsaljsauthenabled=true) (For Northeastern University Students)
+
 ![CommLab Logo](commlab_logo.png)
