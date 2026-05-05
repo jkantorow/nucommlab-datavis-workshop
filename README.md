@@ -1,4 +1,4 @@
-# Northeastern Univeristy CommLab Workshop Series: Automating Your Data Visualization Process with Python
+# Northeastern University CommLab Workshop Series: Automating Your Data Visualization Process with Python
 
 <p align="center">
     <img src="workshop_logo.png" />
