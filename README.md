@@ -14,9 +14,8 @@ For those who aren't able to attend the workshop live, links to recorded worksho
 - Interactive Python plotting using Jupyter Notebooks
 
 ## Day 2: Getting Comfortable with Python for Data Illustration
-- Basic Python plotting with Matplotlib
+- Basic Python plotting with Matplotlib [(Walkthrough Recording)](https://northeastern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=86631461-23fa-44f7-adbf-b448010ba52c)
 - Plotting examples with full tutorials
-[Session Recording](https://northeastern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=86631461-23fa-44f7-adbf-b448010ba52c)
 
 ## Day 3: Importing Your Data for Tailored Visualization
 - Using Pandas for data management
