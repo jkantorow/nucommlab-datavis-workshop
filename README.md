@@ -26,3 +26,9 @@ For those who aren't able to attend the workshop live, links to recorded worksho
 - [Book a One-on-one](https://outlook.office365.com/book/CivilandEnvironmentalCommLab@northeastern.onmicrosoft.com/?ismsaljsauthenabled=true) (For Northeastern University Students)
 
 ![CommLab Logo](commlab_logo.png)
+
+### Data Sources:
+- Tatum, James; Punia, Ambuj; Kostiuk, Larry; Secanell, Marc; Olfert, Jason (2022), *“Methane pyrolysis products in a constant-volume reactor as a function of time”*, Mendeley Data, V1, doi: 10.17632/3d4yftz66n.1
+    - [Open Access Article](https://www.sciencedirect.com/science/article/pii/S2352340923000719)
+    - [Open Access Dataset](https://data.mendeley.com/datasets/3d4yftz66n/1)
+    - [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
