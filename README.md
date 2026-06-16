@@ -18,8 +18,8 @@ For those who aren't able to attend the workshop live, links to recorded worksho
 - Plotting examples with full tutorials
 
 ## Day 3: Importing Your Data for Tailored Visualization
-- Using Pandas for data management
-- Putting it all together with Seaborn
+- Managing tabular data with Pandas [(Walkthrough Recording)](https://northeastern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3570f644-79e8-41dc-bc4e-b46b00eba190)
+- Putting it all together with Seaborn [(Walkthrough Recording)](https://northeastern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bb79b3d1-e257-4495-9d68-b457013c730f)
 
 ### Provided by the Northeastern University COE CommLab:
 - [CommLab Website](https://coe.northeastern.edu/orgs/nu-coe-commlab/)
